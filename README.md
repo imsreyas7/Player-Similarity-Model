@@ -21,3 +21,10 @@ Player Interpolation Model:
 
 * Run ```pip install matplotlib numpy pandas sklearn soccerplots``` to install the required dependencies.
 * Open ```model.ipynb``` to get an interactive iterface of the model.
+
+## Team Members
+
+- [Sreyas](https://github.com/imsreyas7)
+- [Sricharan](https://github.com/Sricharan2402)
+- [Sathish Prasad](https://github.com/sathishprasad)
+- [Sriram](https://github.com/msris108)
