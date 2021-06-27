@@ -6,8 +6,8 @@ Player Similarity Model:
 Player Interpolation Model:
     A model capable of combining existing stats and features of two different players and finding players similar to the combined profile.
 
-<img src="Results/similarity/lewy_all1.jpg" align="center"></img>
-<img src="Results/interpolation/alba_neymar1_attack.jpg" align="center"></img>
+<img src="Results/similarity/lewy_all1.jpeg" align="center"></img>
+<img src="Results/interpolation/alba_neymar1_attack.jpeg" align="center"></img>
 
 ## Environment:
 
