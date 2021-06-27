@@ -6,6 +6,8 @@ Player Similarity Model:
 Player Interpolation Model:
     A model capable of combining existing stats and features of two different players and finding players similar to the combined profile.
 
+![](Results/similarity/lewy_all1.jpg)
+
 ## Environment:
 
 * Coded in Python 3.8
